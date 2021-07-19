@@ -1,0 +1,73 @@
+body{
+  background-image: url("Immagini/background.jpg");
+  background-size: cover;
+}
+
+.normalText {
+  color: white;
+  padding-left: 100px;
+}
+
+.Container {
+  width: 1000px;
+  height: 500px;
+  margin: auto;
+  padding: 95px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 3%;
+}
+
+header{
+  text-align: center;
+}
+
+#Logo {
+  width: 200px;
+
+
+ }
+
+ #Titolo {
+   color: lime;
+   font-style: normal;
+   font-family: sans-serif;
+ }
+
+.bottoniBackground {
+  width: 800px;
+  margin: auto;
+  background-color: lime;
+}
+
+.bottoni {
+  height: 20px;
+  position: relative;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  left: 30%;
+}
+
+.barraArancione {
+  width: 300px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 3px;
+}
+
+.barraVerde {
+  width: 500px;
+  height: 20px;
+  background-color: Chartreuse;
+  border-radius: 3px;
+}
+
+.barraRossa {
+  width: 100px;
+  height: 20px;
+  background-color: #bc2727;
+  border-radius: 3px;
+}
+
+h2{
+  line-height: 0px;
+}
